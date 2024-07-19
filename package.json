@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@shopify/shopify-app-remix": "^3.0.2"
+  }
+}
